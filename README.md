@@ -1,4 +1,4 @@
-# SMI Momentum Breakout Strategy Backtesting
+# SMI Momentum Breakout Strategy Backtesting - Free Trading Strategy
 
 This repository contains a Python-based implementation of the SMI Momentum Breakout Strategy, including enhancements such as volume filters, divergence checks, ATR-based stop losses, and profit targets. The strategy is tested using the `backtesting.py` library and is optimized with multiprocessing for efficient backtesting of various parameter combinations.
 
